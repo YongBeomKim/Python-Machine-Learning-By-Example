@@ -2,7 +2,7 @@
 Python Machine Learning By Example
 
 [원서명](https://www.amazon.com/Python-Machine-Learning-Example-learning/dp/1783553111)
-**Python Machine Learning By Example**
+**Python Machine Learning By Example**<br/>
 Easy-to-follow examples that get you up and running with machine learning
 
 파이썬 기반의 머신 러닝 에코시스템의 전체 개념을 명확하게 정립
